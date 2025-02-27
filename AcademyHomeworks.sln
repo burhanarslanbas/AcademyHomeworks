@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesAndIfElseStructures", "DataTypesAndIfElseStructures\DataTypesAndIfElseStructures.csproj", "{39DCE1A3-03E1-4FA3-94CC-0875F2F0A10D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndLoops", "ArraysAndLoops\ArraysAndLoops.csproj", "{1BDB04E3-0A3D-40BA-92F4-DA39687512FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{39DCE1A3-03E1-4FA3-94CC-0875F2F0A10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39DCE1A3-03E1-4FA3-94CC-0875F2F0A10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39DCE1A3-03E1-4FA3-94CC-0875F2F0A10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDB04E3-0A3D-40BA-92F4-DA39687512FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDB04E3-0A3D-40BA-92F4-DA39687512FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDB04E3-0A3D-40BA-92F4-DA39687512FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDB04E3-0A3D-40BA-92F4-DA39687512FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
