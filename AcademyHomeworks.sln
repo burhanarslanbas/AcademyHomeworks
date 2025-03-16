@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairHomeworkOOP1", "PairHom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactHomework3", "ReactHomework3\ReactHomework3.csproj", "{0E76C449-F9C5-4FDA-A599-1202A0A8AEA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanuaryHomeworks", "JanuaryHomeworks\JanuaryHomeworks.csproj", "{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0E76C449-F9C5-4FDA-A599-1202A0A8AEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E76C449-F9C5-4FDA-A599-1202A0A8AEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E76C449-F9C5-4FDA-A599-1202A0A8AEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
