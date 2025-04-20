@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactHomework3", "ReactHome
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanuaryHomeworks", "JanuaryHomeworks\JanuaryHomeworks.csproj", "{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHomework", "APIHomework\APIHomework.csproj", "{76C351BA-D782-4CDA-8772-11A8EB097C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{039DD6BD-4C5E-4D3E-B922-022D5DCB0E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C351BA-D782-4CDA-8772-11A8EB097C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C351BA-D782-4CDA-8772-11A8EB097C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C351BA-D782-4CDA-8772-11A8EB097C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C351BA-D782-4CDA-8772-11A8EB097C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
